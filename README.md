@@ -6,6 +6,12 @@
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11594695/rajesh-rajagopalan)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rrajesh1979)
 
+<br>
+<br>
+
+## Expertise
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+
 
 <!--
 **rrajesh1979/rrajesh1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
