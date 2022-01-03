@@ -37,6 +37,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+Low code, no code to AI programmer: https://engineering.peerislands.io/low-code-no-code-to-ai-programmer-65cfd1138a74
+Decomposing monolith into microservices: https://dev.rrajesh1979.com/decomposing-monolith-into-microservices-b82028cae323
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=rrajesh1979)
