@@ -6,7 +6,6 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/cloud-practitioner/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11594695/rajesh-rajagopalan)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rrajesh1979)
-![](https://komarev.com/ghpvc/?username=rrajesh1979)
 
 <br>
 <br>
@@ -39,6 +38,8 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+![](https://komarev.com/ghpvc/?username=rrajesh1979)
 
 <!--
 **rrajesh1979/rrajesh1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
