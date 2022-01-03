@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=https://komarev.com/ghpvc/?username = rrajesh1979/> <br>
+![](https://komarev.com/ghpvc/?username=rrajesh1979)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rrajesh1979.rrajesh1979) <br>
 ## Connect with me
