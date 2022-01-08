@@ -38,7 +38,9 @@
       <img alt="Akka" src="https://img.shields.io/badge/-Akka-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
     </td>
     <td>
+      
       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+      
     </td>
   </tr>
 </table>
