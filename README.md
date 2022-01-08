@@ -23,27 +23,12 @@
 
 -->
 ## Passionate about
-<table>
-  <tr>
-    <td>
-      <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </td>
-    <td>
-      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-    </td>
-    <td>
-      <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-    </td>
-    <td>
-      <img alt="Akka" src="https://img.shields.io/badge/-Akka-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    </td>
-    <td>
-      
-      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-      
-    </td>
-  </tr>
-</table>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+
+<img alt="Akka" src="https://img.shields.io/badge/-Akka-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
 <br>
 <br>
