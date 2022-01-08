@@ -40,7 +40,7 @@
 <br>
 
 
-## Blog posts
+## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
 <li> Low code, no code to AI programmer: https://engineering.peerislands.io/low-code-no-code-to-ai-programmer-65cfd1138a74 </li>
@@ -57,6 +57,11 @@
 
 ![](https://komarev.com/ghpvc/?username=rrajesh1979)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+  
 <!--
 **rrajesh1979/rrajesh1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
