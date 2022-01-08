@@ -37,16 +37,17 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-Low code, no code to AI programmer: https://engineering.peerislands.io/low-code-no-code-to-ai-programmer-65cfd1138a74 <br />
-Decomposing monolith into microservices: https://dev.rrajesh1979.com/decomposing-monolith-into-microservices-b82028cae323 <br />
-Building a custom Terraform provider, evolution and future of IaaC: https://dev.rrajesh1979.com/building-a-custom-terraform-provider-evolution-and-future-of-iaac-71f5605f03aa <br />
-How to use GraphQL to build Backend-For-Frontends (BFFs)?: https://dev.rrajesh1979.com/how-to-use-graphql-to-build-backend-for-frontends-bffs-peerislands-5cd763e719d8 <br />
-How to implement data processing architectures — Lambda, Kappa & Apache beam?: https://dev.rrajesh1979.com/how-to-implement-data-processing-architectures-lambda-kappa-apache-beam-peerislands-d71085b283d4 <br />
-Feature flags: How to and best practices guide. When and why to use Feature flags: https://dev.rrajesh1979.com/feature-flags-how-to-and-best-practices-guide-when-and-why-to-use-feature-flags-1475d980fb93 <br />
-Microservices, gRPC and Protobuf: https://dev.rrajesh1979.com/microservices-grpc-and-protobuf-42822831f6a4 <br />
-Should data be embedded in business process? It depends!: https://dev.rrajesh1979.com/should-data-be-embedded-in-business-process-it-depends-8dfc66c5f1d4 <br />
-Microservices Architecture: configurable business process using Workflow Engine (Part 2): https://dev.rrajesh1979.com/part-2-microservices-architecture-configurable-business-process-using-workflow-engine-23d15a9a0468 <br />
-Domain-Driven Microservices Design from a practitioner’s view (Part 1): https://dev.rrajesh1979.com/domain-driven-microservices-design-from-a-practitioners-view-part-1-5eb47578e87e <br />
+<ul>
+<li> Low code, no code to AI programmer: https://engineering.peerislands.io/low-code-no-code-to-ai-programmer-65cfd1138a74 </li>
+<li> Decomposing monolith into microservices: https://dev.rrajesh1979.com/decomposing-monolith-into-microservices-b82028cae323 </li>
+<li> Building a custom Terraform provider, evolution and future of IaaC: https://dev.rrajesh1979.com/building-a-custom-terraform-provider-evolution-and-future-of-iaac-71f5605f03aa </li>
+<li> How to use GraphQL to build Backend-For-Frontends (BFFs)?: https://dev.rrajesh1979.com/how-to-use-graphql-to-build-backend-for-frontends-bffs-peerislands-5cd763e719d8 </li>
+<li> How to implement data processing architectures — Lambda, Kappa & Apache beam?: https://dev.rrajesh1979.com/how-to-implement-data-processing-architectures-lambda-kappa-apache-beam-peerislands-d71085b283d4 </li>
+<li> Feature flags: How to and best practices guide. When and why to use Feature flags: https://dev.rrajesh1979.com/feature-flags-how-to-and-best-practices-guide-when-and-why-to-use-feature-flags-1475d980fb93 </li>
+<li> Microservices, gRPC and Protobuf: https://dev.rrajesh1979.com/microservices-grpc-and-protobuf-42822831f6a4 </li>
+<li> Should data be embedded in business process? It depends!: https://dev.rrajesh1979.com/should-data-be-embedded-in-business-process-it-depends-8dfc66c5f1d4 </li>
+<li> Microservices Architecture: configurable business process using Workflow Engine (Part 2): https://dev.rrajesh1979.com/part-2-microservices-architecture-configurable-business-process-using-workflow-engine-23d15a9a0468 </li>
+<li> Domain-Driven Microservices Design from a practitioner’s view (Part 1): https://dev.rrajesh1979.com/domain-driven-microservices-design-from-a-practitioners-view-part-1-5eb47578e87e </li>
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=rrajesh1979)
