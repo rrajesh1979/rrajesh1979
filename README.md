@@ -39,6 +39,9 @@
 <br>
 <br>
 
+📊 **This week I spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,11 +59,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=rrajesh1979)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
+ 
   
 <!--
 **rrajesh1979/rrajesh1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
