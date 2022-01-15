@@ -55,6 +55,7 @@ YAML     57 mins         █░░░░░░░░░░░░░░░░░�
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+<li> How to build native CLI apps using Java, Maven, GraalVM, Picocli, JReleaser and GitHub actions: https://dev.rrajesh1979.com/how-to-build-native-cli-apps-using-java-maven-graalvm-picocli-jreleaser-and-github-actions-1407693d99ff </li>
 <li> Low code, no code to AI programmer: https://engineering.peerislands.io/low-code-no-code-to-ai-programmer-65cfd1138a74 </li>
 <li> Decomposing monolith into microservices: https://dev.rrajesh1979.com/decomposing-monolith-into-microservices-b82028cae323 </li>
 <li> Building a custom Terraform provider, evolution and future of IaaC: https://dev.rrajesh1979.com/building-a-custom-terraform-provider-evolution-and-future-of-iaac-71f5605f03aa </li>
