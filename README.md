@@ -42,7 +42,7 @@
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 Rust   2 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.58 % 
 Java   1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.59 % 
