@@ -43,9 +43,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-Other            10 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.29 %
+Other            9 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   41.63 %
 ```
 
 <!--END_SECTION:waka-->
