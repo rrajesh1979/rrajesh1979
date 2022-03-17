@@ -43,10 +43,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Java         8 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.20 %
-Other        3 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+Java         6 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   43.16 %
+Other        4 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.35 %
 ```
 
 <!--END_SECTION:waka-->
