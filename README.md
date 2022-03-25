@@ -43,11 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2022 - To: 23 March 2022
+From: 17 March 2022 - To: 24 March 2022
 
-Terraform        1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Java             1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-Other            1 hr 13 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+Terraform        1 hr 34 mins    █████████████░░░░░░░░░░░░   52.33 %
+Markdown         36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+Text             24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Java             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+XML              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
